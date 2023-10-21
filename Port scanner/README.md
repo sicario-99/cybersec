@@ -8,7 +8,7 @@ This is a simple Python port scanner script that allows you to scan a target IP 
 - Provides information about open ports on the target.
 - Simple and easy to use.
 
-##Disclaimer
+## Disclaimer
 This tool is intended for educational and testing purposes. Always ensure you have the necessary permissions to scan a target. Unauthorized scanning of networks or hosts is illegal and unethical.
 
 ## Usage
